@@ -2,4 +2,4 @@
 
 # Listen for incoming connections
 
-netstat -an -p tcp
+sudo netstat -tunlp
