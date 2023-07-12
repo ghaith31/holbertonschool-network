@@ -1,2 +1,5 @@
 #!/usr/bin/env bash
+
+# Listen for incoming connections
+
 netstat -an -p tcp
