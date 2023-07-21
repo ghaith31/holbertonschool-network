@@ -1,5 +1,3 @@
 #!/usr/bin/env bash
-
-# Listen for incoming connections
-
+#displays listening ports
 sudo netstat -tunlp
